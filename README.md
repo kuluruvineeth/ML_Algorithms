@@ -5,4 +5,4 @@
    * [Linear Regression using stochastic gradient descent](https://github.com/kuluruvineeth/Machine-Learning-Algorithms-from-scratch/blob/main/linear%20regression%20using%20gradient%20descent.ipynb)
 
 ## 2. Logistic Regression
-    * Logistic Regression using stochastic gradient descent
+   * [Logistic Regression using stochastic gradient descent](https://github.com/kuluruvineeth/Machine-Learning-Algorithms-from-scratch/blob/main/Logistic%20Regression%20from%20scratch.ipynb)
